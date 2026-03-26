@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function myFunction(){
+	var elementos = document.getElementsByName("pregunta"); 
+	for(var i=0; i<elementos.length; i++) { 
+		alert("  Elemento:  "  +  elementos[i].value  +  "\n  Seleccionado:  "  + 
+		elementos[i].checked); 
+	} 
+}
+</script> 
+</head>
+<body>
+
+<input type="radio" value="si" name="pregunta" id="pregunta_si"/> SI 
+<input type="radio" value="no" name="pregunta" id="pregunta_no"/> NO 
+<input  type="radio"  value="nsnc"  name="pregunta"  id="pregunta_nsnc"/> NS/NC 
+<br/>
+<button onclick="myFunction()">Try it</button>
+ 
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function funcion() {
+	var valor = document.getElementById("texto").value;
+	var valor1 = document.getElementById("parrafo").value; 
+	document.write(valor, "<br/>");
+	document.write (valor1, "<br/>");
+}
+</script> 
+</head>
+<body>
+<form>
+	<input type="text" id="texto" value="Me voy de casa"/> 
+  	<textarea id="parrafo">Estoy en casa</textarea>
+	<input type="button" value="OK" onclick="funcion()"></input>
+	<br/>
+</form>
+ 
+</body>
+</html>

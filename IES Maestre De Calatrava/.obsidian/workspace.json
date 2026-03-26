@@ -11,14 +11,10 @@
             "id": "6b9cf965e08516e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bienvenido.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Bienvenido"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bienvenido.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Bienvenido"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -129,12 +124,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bienvenido.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Bienvenido"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -172,13 +166,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bienvenido.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Bienvenido"
+              "title": "Esquema"
             }
           }
         ]
@@ -201,6 +194,51 @@
   },
   "active": "6b9cf965e08516e8",
   "lastOpenFiles": [
-    "Bienvenido.md"
+    "DAM Lenguajes de Marcas/04 UT 2 XML/MATERIAL/PROPIO/xml_ejemplo_explicado.md",
+    "DAM Lenguajes de Marcas/04 UT 2 XML/MESA DE TRABAJO/Resolucion de Ejersicio.md",
+    "DAM Lenguajes de Marcas/04 UT 2 XML/MESA DE TRABAJO/02 Ejersicio.excalidraw.md",
+    "DAM Lenguajes de Marcas/04 UT 2 XML/MESA DE TRABAJO/01.excalidraw.md",
+    "DAM Lenguajes de Marcas/04 UT 2 XML/MATERIAL/PROPIO",
+    "DAM Lenguajes de Marcas/04 UT 2 XML/MATERIAL/LM-XML-DTD.pdf",
+    "DAM Lenguajes de Marcas/04 UT 2 XML/MATERIAL/ejercicios intro xml.pdf",
+    "DAM Lenguajes de Marcas/04 UT 2 XML/MESA DE TRABAJO",
+    "DAM Lenguajes de Marcas/04 UT 2 XML/MATERIAL",
+    "DAM Lenguajes de Marcas/04 UT 2 XML",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/examen/WhatsApp Image 2026-03-19 at 12.16.59.jpeg",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/examen/WhatsApp Image 2026-03-19 at 12.16.59 (2).jpeg",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/examen/WhatsApp Image 2026-03-19 at 12.16.59 (1).jpeg",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/examen/Sin título.md",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/examen/Sin título 1.md",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/examen/examen1.md",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/examen/examen.md",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/Ejemplos y ejercicios de formularios y JS/propio/Pasted Image 20260226191841_091.png",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/Ejemplos y ejercicios de formularios y JS/propio/Pasted Image 20260226191834_990.png",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/Ejemplos y ejercicios de formularios y JS/propio/Pasted Image 20260226191452_922.png",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/Ejemplos y ejercicios de formularios y JS/propio/Pasted Image 20260226191325_923.png",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/Ejemplos y ejercicios de formularios y JS/propio/Pasted Image 20260226191313_983.png",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/Ejemplos y ejercicios de formularios y JS/propio/Pasted Image 20260226191149_683.png",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/Ejemplos y ejercicios de formularios y JS/propio/Pasted Image 20260226190721_003.png",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/MFI1.md",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/formulario.js",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/formulario.html",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/examen",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/11.02 EjersicioResueltos.md",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/11.01 EjersicioResueltos.md",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/11 EjercisiosResueltos.md",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/10 SolucionesIniciales.md",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/09 Resumen ejersicios.md",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/08 Resumen.md",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/07.01 FormularioMIF1.md",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/07 Formularios.md",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/06 FuncionesPredeterminada.md",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/05 Funciones.md",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/04 EstructurasDeControl.md",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/03 operadores.md",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/02 variables.md",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/01 introduccion.md",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/Ejemplos y ejercicios de formularios y JS/propio",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MESA DE TRABAJO/05 examen .excalidraw.md",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MESA DE TRABAJO/04 .excalidraw.md",
+    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MESA DE TRABAJO/03 .excalidraw.md"
   ]
 }
