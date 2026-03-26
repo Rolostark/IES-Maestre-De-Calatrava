@@ -4,33 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "27b37b360da538a9",
+        "id": "1cd7044b313fc340",
         "type": "tabs",
         "children": [
           {
-            "id": "6b9cf965e08516e8",
+            "id": "36427f65c48752a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
-          }
-        ]
-      },
-      {
-        "id": "051288766c5c6f36",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "399c44e3e3b985cb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "excalidraw",
+              "state": {
+                "file": "DAM Lenguajes de Marcas/04 UT 2 XML/MESA DE TRABAJO/01.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "01.excalidraw"
             }
           }
         ]
@@ -189,56 +175,57 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "6b9cf965e08516e8",
+  "active": "cb96c94b8f404dd0",
   "lastOpenFiles": [
-    "DAM Lenguajes de Marcas/04 UT 2 XML/MATERIAL/PROPIO/xml_ejemplo_explicado.md",
-    "DAM Lenguajes de Marcas/04 UT 2 XML/MESA DE TRABAJO/Resolucion de Ejersicio.md",
-    "DAM Lenguajes de Marcas/04 UT 2 XML/MESA DE TRABAJO/02 Ejersicio.excalidraw.md",
-    "DAM Lenguajes de Marcas/04 UT 2 XML/MESA DE TRABAJO/01.excalidraw.md",
-    "DAM Lenguajes de Marcas/04 UT 2 XML/MATERIAL/PROPIO",
-    "DAM Lenguajes de Marcas/04 UT 2 XML/MATERIAL/LM-XML-DTD.pdf",
-    "DAM Lenguajes de Marcas/04 UT 2 XML/MATERIAL/ejercicios intro xml.pdf",
-    "DAM Lenguajes de Marcas/04 UT 2 XML/MESA DE TRABAJO",
-    "DAM Lenguajes de Marcas/04 UT 2 XML/MATERIAL",
-    "DAM Lenguajes de Marcas/04 UT 2 XML",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/examen/WhatsApp Image 2026-03-19 at 12.16.59.jpeg",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/examen/WhatsApp Image 2026-03-19 at 12.16.59 (2).jpeg",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/examen/WhatsApp Image 2026-03-19 at 12.16.59 (1).jpeg",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/examen/Sin título.md",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/examen/Sin título 1.md",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/examen/examen1.md",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/examen/examen.md",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/Ejemplos y ejercicios de formularios y JS/propio/Pasted Image 20260226191841_091.png",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/Ejemplos y ejercicios de formularios y JS/propio/Pasted Image 20260226191834_990.png",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/Ejemplos y ejercicios de formularios y JS/propio/Pasted Image 20260226191452_922.png",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/Ejemplos y ejercicios de formularios y JS/propio/Pasted Image 20260226191325_923.png",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/Ejemplos y ejercicios de formularios y JS/propio/Pasted Image 20260226191313_983.png",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/Ejemplos y ejercicios de formularios y JS/propio/Pasted Image 20260226191149_683.png",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/Ejemplos y ejercicios de formularios y JS/propio/Pasted Image 20260226190721_003.png",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/MFI1.md",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/formulario.js",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/formulario.html",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/examen",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/11.02 EjersicioResueltos.md",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/11.01 EjersicioResueltos.md",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/11 EjercisiosResueltos.md",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/10 SolucionesIniciales.md",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/09 Resumen ejersicios.md",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/08 Resumen.md",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/07.01 FormularioMIF1.md",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/07 Formularios.md",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/06 FuncionesPredeterminada.md",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/05 Funciones.md",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/04 EstructurasDeControl.md",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/03 operadores.md",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/02 variables.md",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/propio/01 introduccion.md",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MATERIAL/Ejemplos y ejercicios de formularios y JS/propio",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MESA DE TRABAJO/05 examen .excalidraw.md",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MESA DE TRABAJO/04 .excalidraw.md",
-    "DAM Lenguajes de Marcas/03 UT 1_3 JavaScript/MESA DE TRABAJO/03 .excalidraw.md"
+    "DAM1T_BBDD - Bases de datos/05 UT4. DML - JOIN/02 Valencia.excalidraw.md",
+    "DAM1T_BBDD - Bases de datos/05 UT4. DML - JOIN/01 Empresa .excalidraw.md",
+    "DAM1T_BBDD - Bases de datos/05 UT4. DML - JOIN",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/06 valencia/Pasted Image 20260323162157_674.png",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/06 valencia/Pasted Image 20260323110833_600.png",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/06 valencia/Pasted Image 20260323110104_280.png",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/06 valencia/Pasted Image 20260322225456_511.png",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/06 valencia/3-4.md",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/06 valencia/2-4.md",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/06 valencia/1-4.md",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/06 valencia",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/05 diamantes/diamantes.md",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/05 diamantes",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/04 planetas/Bloque1.md",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/04 planetas/planeta.sql",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/04 planetas/Pasted Image 20260224191838_846.png",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/04 planetas/Bloque2.md",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/04 planetas",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/03 iris/solucion iris.md",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/03 iris/Pasted image 20260220131429.png",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/03 iris/iris Select Iris.sql",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/03 iris",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/02 Titanic/Pasted Image 20260323011831_532.png",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/02 Titanic/4-4.md",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/02 Titanic/3-4.md",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/02 Titanic/2-4.md",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/02 Titanic/1-4.md",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/02 Titanic",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/01 empresa/Pasted Image 20260323164430_949.png",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/01 empresa/explicacion.md",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/01 empresa/Explicacion bbdd_4b_dml_select_oracle.md",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/01 empresa/empresaCorregido.sql",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/01 empresa/empresa.sql",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/01 empresa/chuleta.md",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/Sin título.md",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/resumen para el examen.md",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/Pasted Image 20260320175340_297.png",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/Pasted Image 20260316181237_793.png",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/PROPIO/join.md",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/MESA DE TRABAJO/06 .excalidraw.md",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/MESA DE TRABAJO/05 Diamantes.excalidraw.md",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/MESA DE TRABAJO/04 Iris .excalidraw.md",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/MESA DE TRABAJO/03 Planetas.excalidraw.md",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/MESA DE TRABAJO/02 Titanic.excalidraw.md",
+    "DAM1T_BBDD - Bases de datos/04 UT4. DML - selects/MESA DE TRABAJO/01 Empresa .excalidraw.md",
+    "DAM1T_BBDD - Bases de datos/03 UT3. DDL y DCL/MESA DE TRABAJO/06 Bankie.excalidraw.md"
   ]
 }
